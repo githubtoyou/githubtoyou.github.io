@@ -1,1 +1,1 @@
-{"name":"Charlie's Blog","short_name":null,"start_url":"/index.html","theme_color":null,"background_color":null,"display":"standalone","icons":[{"src":"","sizes":"","type":null}]}
+{"name":"webappnameCblog","short_name":"wacb","start_url":"https://githubtoyou.github.io/","theme_color":"#3273dc","background_color":"#3273dc","display":"standalone","icons":[{"src":"icons/touch-icon-iphone.png","sizes":"144x144","type":"image/png"},{"src":"icons/touch-icon-ipad.png","sizes":"152x152"}]}
